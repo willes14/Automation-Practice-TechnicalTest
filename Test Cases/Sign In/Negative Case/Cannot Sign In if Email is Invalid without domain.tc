@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cannot Sign In if Email is Invalid without domain</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>361be476-10e7-48ba-8c46-910e25390617</testCaseGuid>
+</TestCaseEntity>

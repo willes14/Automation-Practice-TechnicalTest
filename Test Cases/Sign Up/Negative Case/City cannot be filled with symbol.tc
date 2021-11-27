@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>City cannot be filled with symbol</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>420479ac-a5bf-47c1-b361-3f7bf4eac0cb</testCaseGuid>
+</TestCaseEntity>

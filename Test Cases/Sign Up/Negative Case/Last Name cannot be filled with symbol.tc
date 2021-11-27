@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Last Name cannot be filled with symbol</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63a3d53e-631d-4e9d-8e5c-ad4cd061fb40</testCaseGuid>
+</TestCaseEntity>

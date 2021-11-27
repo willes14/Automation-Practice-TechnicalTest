@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Last Name can be filled with UPPERCASE</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa38a88b-78fa-48f3-b1de-b2b06d43d790</testCaseGuid>
+</TestCaseEntity>
